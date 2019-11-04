@@ -8,7 +8,7 @@ Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cl
 
 ```sh
 $ git clone https://github.com/ridhanf/belajar-node.js.git # or clone your own fork
-$ cd kadojs
+$ cd [FOLDER]
 $ npm install
 $ npm start
 ```
