@@ -7,7 +7,7 @@ Kode program dalam belajar node.js dan express
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
 
 ```sh
-$ git clone https://github.com/ridhanf/kadojs.git # or clone your own fork
+$ git clone https://github.com/ridhanf/belajar-node.js.git # or clone your own fork
 $ cd kadojs
 $ npm install
 $ npm start
