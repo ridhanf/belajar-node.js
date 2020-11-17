@@ -1,6 +1,8 @@
 # BELAJAR NODE.JS
 
-Kode program dalam belajar node.js dan express
+Kode program dalam belajar node.js dan express.
+
+Semua kode di repository ini dibuat berdasarkan tutorial pada [sumber ini](https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU&index=1&t=530s).
 
 ## Running Locally
 
@@ -8,7 +10,6 @@ Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cl
 
 ```sh
 $ git clone https://github.com/ridhanf/belajar-node.js.git # or clone your own fork
-$ cd [FOLDER]
 $ npm install
 $ npm start
 ```
